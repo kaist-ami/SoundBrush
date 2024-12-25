@@ -1,0 +1,1 @@
+python main.py --name 0817_envonly --base configs/train_sb.yaml --train --gpus 2
