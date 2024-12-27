@@ -1,4 +1,4 @@
-# SoundBrush (AAAI 2024)
+# SoundBrush (AAAI 2025)
 
 ### [Project Page](https://soundbrush.github.io/) | [Paper](https://soundbrush.github.io/) | [Dataset](https://soundbrush.github.io/)
 This repository contains a pytorch implementation for the AAAI 2025 paper, [SoundBrush: Sound as a Brush for Visual Scene Editing](https://soundbrush.github.io/). SoundBrush can manipulate scenes to reflect the mood of the input audio or to insert sounding objects while preserving the original content.<br><br>
