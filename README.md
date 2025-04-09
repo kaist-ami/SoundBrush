@@ -49,13 +49,6 @@ sh inference.sh
 - You agree not to reproduce, duplicate, copy, sell, trade, resell, or exploit any portion of the videos and any portion of derived data for commercial purposes.
 - You agree not to further copy, publish, or distribute any portion of the SoundBrush dataset. Except, it is allowed to make copies of the dataset for internal use at a single site within the same organization.
 
-## MultiTalk Dataset
-TOBEUPLOADED
-
-[//]: # (Please follow the instructions in [MultiTalk_dataset/README.md]&#40;https://github.com/postech-ami/MultiTalk/blob/main/MultiTalk_dataset/README.md&#41;.)
-
-## Training and testing
-TOBEUPLOADED
 
 ## **Notes**
 ```
